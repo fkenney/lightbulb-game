@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../images/pool.jpg");
+    height: 100vh;
+}
+section div{
+    background-color: #ffffff85;
+    border:#ffffff solid 1px;
+}
+main{
+    width: 40%;
+}
+h1{
+    font-family:'Caveat', cursive;
+    color:white;
+    font-size: 100px;
+}
